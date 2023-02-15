@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #fff;
+  width: 250px;
+  height: 700px;
+  border: 1px solid #e9e6e6;
+  box-shadow: 10px 0 20px 6px #e8e8e8;
+}
+
+.textnav {
+  padding-top: 30px;
+}
+
+.text {
+  font-size: 18px;
+  padding: 16px 16px 16px 34px;
+  cursor: pointer;
+}
+
+.text:hover {
+  background-color: #efeeee97;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}

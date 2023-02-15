@@ -1,0 +1,8 @@
+.bodynav {
+  display: flex;
+}
+
+.bodychil {
+  padding: 0 0 0 20px;
+  width: 1350px;
+}
